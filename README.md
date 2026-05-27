@@ -1,6 +1,6 @@
 # 👋 Akmal Yassin | SnideAnteater
 
-> **Senior Software Developer** @ [Vistra](https://github.com/Jordans-Vistra)
+> **Software Engineer** @ [Vistra](https://github.com/Jordans-Vistra)
 
 ---
 
