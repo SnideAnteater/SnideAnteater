@@ -1,6 +1,6 @@
 # 👋 Akmal Yassin | SnideAnteater
 
-> **Senior Software Developer** @ [CraveFX-Interactive](https://github.com/CraveFX-Interactive)
+> **Senior Software Developer** @ [Vistra](https://github.com/Jordans-Vistra)
 
 ---
 
@@ -67,7 +67,7 @@ Full-stack developer with expertise in modern web technologies and backend syste
 Feel free to reach out for collaboration, freelance opportunities, or just to chat about tech!
 
 - 🐙 **GitHub:** [@SnideAnteater](https://github.com/SnideAnteater)
-- 💼 **Organization:** [CraveFX-Interactive](https://github.com/CraveFX-Interactive)
+- 💼 **Portfolio:** [Akmal Yassin](https://akmalyassin-dev.vercel.app/)
 
 ---
 
